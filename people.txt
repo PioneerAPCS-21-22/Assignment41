@@ -36,7 +36,7 @@ John Fitzgerald Kennedy, 6055555555, jkennedy@whitehouse.gov
 Lyndon Baines Johnson, 6055555555, ljohnson@whitehouse.gov
 Richard Milhous Nixon, 6055555555, rnixon@whitehouse.gov
 Gerald Rudolph Ford, 6055555555, gford@whitehouse.gov
-James Earl Carter, Jr., 6055555555, jcarter@whitehouse.gov
+James Earl Carter Jr., 6055555555, jcarter@whitehouse.gov
 Ronald Wilson Reagan, 6055555555, rreagan@whitehouse.gov
 George Herbert Walker Bush, 6055555555, gbush@whitehouse.gov
 William Jefferson Clinton, 6055555555, wclinton@whitehouse.gov
